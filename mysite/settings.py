@@ -78,9 +78,9 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'mysite',
-        'USER': 'mysiteuser',
-        'PASSWORD': 'password',
+        'NAME': 'giangnguyen',
+        'USER': 'giangnguyen',
+        'PASSWORD': '',
         'HOST': 'localhost',
         'PORT': '',
 
@@ -125,3 +125,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = '/Users/giangnguyen/Desktop/School/django_project/static/'

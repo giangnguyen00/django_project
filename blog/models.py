@@ -14,3 +14,11 @@ class Post(models.Model):
 
 	def __str__(self):
 		return self.title
+
+class Entity(models.Model):
+	doc_id = models.IntegerField()
+	start_pos = models.IntegerField()
+	seg_text = models.CharField(max_length=100)
+
+
+

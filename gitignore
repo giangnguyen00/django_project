@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+myvenv
+db.backends.postgresql_psycopg2
+/static
+.DS_Store

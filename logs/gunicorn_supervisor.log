@@ -1,0 +1,224 @@
+Starting mysite as giangnguyen
+[2016-04-07 19:00:46 -0400] [1277] [INFO] Starting gunicorn 19.4.5
+[2016-04-07 19:00:46 -0400] [1277] [INFO] Listening at: unix:/Users/giangnguyen/Desktop/School/django_project/run/gunicorn.sock (1277)
+[2016-04-07 19:00:46 -0400] [1277] [INFO] Using worker: sync
+[2016-04-07 19:00:47 -0400] [1283] [INFO] Booting worker with pid: 1283
+[2016-04-07 19:00:47 -0400] [1284] [INFO] Booting worker with pid: 1284
+[2016-04-07 19:00:47 -0400] [1285] [INFO] Booting worker with pid: 1285
+[2016-04-07 19:05:34 -0400] [1277] [CRITICAL] WORKER TIMEOUT (pid:1283)
+[2016-04-07 19:05:34 -0400] [1277] [CRITICAL] WORKER TIMEOUT (pid:1284)
+[2016-04-07 19:05:34 -0400] [1277] [CRITICAL] WORKER TIMEOUT (pid:1285)
+[2016-04-07 19:05:37 -0400] [1298] [INFO] Booting worker with pid: 1298
+[2016-04-07 19:05:37 -0400] [1299] [INFO] Booting worker with pid: 1299
+[2016-04-07 19:05:37 -0400] [1300] [INFO] Booting worker with pid: 1300
+[2016-04-07 19:06:21 -0400] [1277] [INFO] Handling signal: term
+[2016-04-07 23:06:22 +0000] [1299] [INFO] Worker exiting (pid: 1299)
+[2016-04-07 23:06:22 +0000] [1298] [INFO] Worker exiting (pid: 1298)
+[2016-04-07 23:06:22 +0000] [1300] [INFO] Worker exiting (pid: 1300)
+[2016-04-07 19:06:22 -0400] [1277] [INFO] Shutting down: Master
+Starting mysite as giangnguyen
+[2016-04-08 02:45:15 -0400] [1802] [INFO] Starting gunicorn 19.4.5
+[2016-04-08 02:45:15 -0400] [1802] [INFO] Listening at: unix:/Users/giangnguyen/Desktop/School/django_project/run/gunicorn.sock (1802)
+[2016-04-08 02:45:15 -0400] [1802] [INFO] Using worker: sync
+[2016-04-08 02:45:15 -0400] [1808] [INFO] Booting worker with pid: 1808
+[2016-04-08 02:45:15 -0400] [1809] [INFO] Booting worker with pid: 1809
+[2016-04-08 02:45:15 -0400] [1810] [INFO] Booting worker with pid: 1810
+[2016-04-08 02:53:16 -0400] [1802] [INFO] Handling signal: term
+[2016-04-08 06:53:19 +0000] [1809] [INFO] Worker exiting (pid: 1809)
+[2016-04-08 06:53:19 +0000] [1808] [INFO] Worker exiting (pid: 1808)
+[2016-04-08 06:53:19 +0000] [1810] [INFO] Worker exiting (pid: 1810)
+[2016-04-08 02:53:19 -0400] [1802] [INFO] Shutting down: Master
+Starting mysite as giangnguyen
+[2016-04-08 02:53:20 -0400] [1853] [INFO] Starting gunicorn 19.4.5
+[2016-04-08 02:53:20 -0400] [1853] [INFO] Listening at: unix:/Users/giangnguyen/Desktop/School/django_project/run/gunicorn.sock (1853)
+[2016-04-08 02:53:20 -0400] [1853] [INFO] Using worker: sync
+[2016-04-08 02:53:20 -0400] [1858] [INFO] Booting worker with pid: 1858
+[2016-04-08 02:53:20 -0400] [1859] [INFO] Booting worker with pid: 1859
+[2016-04-08 02:53:20 -0400] [1860] [INFO] Booting worker with pid: 1860
+[2016-04-08 04:35:28 -0400] [1853] [CRITICAL] WORKER TIMEOUT (pid:1858)
+[2016-04-08 04:35:28 -0400] [1853] [CRITICAL] WORKER TIMEOUT (pid:1859)
+[2016-04-08 04:35:28 -0400] [1853] [CRITICAL] WORKER TIMEOUT (pid:1860)
+[2016-04-08 08:35:28 +0000] [1859] [INFO] Worker exiting (pid: 1859)
+[2016-04-08 08:35:28 +0000] [1858] [INFO] Worker exiting (pid: 1858)
+[2016-04-08 08:35:28 +0000] [1860] [INFO] Worker exiting (pid: 1860)
+[2016-04-08 08:09:00 -0400] [2461] [INFO] Booting worker with pid: 2461
+[2016-04-08 08:09:00 -0400] [2462] [INFO] Booting worker with pid: 2462
+[2016-04-08 08:09:00 -0400] [2463] [INFO] Booting worker with pid: 2463
+[2016-04-08 08:10:01 -0400] [1853] [CRITICAL] WORKER TIMEOUT (pid:2461)
+[2016-04-08 08:10:01 -0400] [1853] [CRITICAL] WORKER TIMEOUT (pid:2462)
+[2016-04-08 08:10:01 -0400] [1853] [CRITICAL] WORKER TIMEOUT (pid:2463)
+[2016-04-08 12:10:01 +0000] [2461] [INFO] Worker exiting (pid: 2461)
+[2016-04-08 12:10:01 +0000] [2462] [INFO] Worker exiting (pid: 2462)
+[2016-04-08 12:11:21 -0400] [2480] [INFO] Booting worker with pid: 2480
+[2016-04-08 12:11:21 -0400] [2482] [INFO] Booting worker with pid: 2482
+[2016-04-08 12:11:21 -0400] [2483] [INFO] Booting worker with pid: 2483
+[2016-04-08 13:18:59 -0400] [1853] [INFO] Handling signal: term
+[2016-04-08 17:19:06 +0000] [2480] [INFO] Worker exiting (pid: 2480)
+[2016-04-08 17:19:06 +0000] [2482] [INFO] Worker exiting (pid: 2482)
+[2016-04-08 17:19:06 +0000] [2483] [INFO] Worker exiting (pid: 2483)
+[2016-04-08 13:19:07 -0400] [1853] [INFO] Shutting down: Master
+Starting mysite as giangnguyen
+[2016-04-14 15:06:21 -0400] [1733] [DEBUG] Current configuration:
+  post_worker_init: <function PostWorkerInit.post_worker_init at 0x103038f28>
+  limit_request_fields: 100
+  reload: False
+  post_request: <function PostRequest.post_request at 0x10303f730>
+  worker_class: sync
+  statsd_host: None
+  group: 20
+  bind: ['unix:/Users/giangnguyen/Desktop/School/django_project/run/gunicorn.sock']
+  syslog: False
+  spew: False
+  nworkers_changed: <function NumWorkersChanged.nworkers_changed at 0x10303fa60>
+  accesslog: None
+  proxy_protocol: False
+  check_config: False
+  on_reload: <function OnReload.on_reload at 0x1030388c8>
+  backlog: 2048
+  on_exit: <function OnExit.on_exit at 0x10303fbf8>
+  sendfile: None
+  on_starting: <function OnStarting.on_starting at 0x103038730>
+  statsd_prefix: 
+  graceful_timeout: 30
+  pre_exec: <function PreExec.pre_exec at 0x10303f488>
+  logconfig: None
+  preload_app: False
+  default_proc_name: mysite.wsgi:application
+  timeout: 30
+  post_fork: <function Postfork.post_fork at 0x103038d90>
+  secure_scheme_headers: {'X-FORWARDED-PROTOCOL': 'ssl', 'X-FORWARDED-SSL': 'on', 'X-FORWARDED-PROTO': 'https'}
+  syslog_facility: user
+  ssl_version: 3
+  suppress_ragged_eofs: True
+  worker_int: <function WorkerInt.worker_int at 0x10303f158>
+  pre_request: <function PreRequest.pre_request at 0x10303f620>
+  worker_exit: <function WorkerExit.worker_exit at 0x10303f8c8>
+  threads: 1
+  ca_certs: None
+  worker_abort: <function WorkerAbort.worker_abort at 0x10303f2f0>
+  logger_class: gunicorn.glogging.Logger
+  chdir: /Users/giangnguyen/Desktop/School/django_project
+  cert_reqs: 0
+  syslog_prefix: None
+  workers: 3
+  daemon: False
+  proxy_allow_ips: ['127.0.0.1']
+  max_requests_jitter: 0
+  access_log_format: %(h)s %(l)s %(u)s %(t)s "%(r)s" %(s)s %(b)s "%(f)s" "%(a)s"
+  raw_env: []
+  loglevel: debug
+  max_requests: 0
+  errorlog: -
+  proc_name: mysite
+  keepalive: 2
+  pidfile: None
+  forwarded_allow_ips: ['127.0.0.1']
+  limit_request_field_size: 8190
+  umask: 0
+  pythonpath: None
+  django_settings: None
+  do_handshake_on_connect: False
+  worker_connections: 1000
+  pre_fork: <function Prefork.pre_fork at 0x103038bf8>
+  user: 501
+  keyfile: None
+  limit_request_line: 4094
+  tmp_upload_dir: None
+  ciphers: TLSv1
+  worker_tmp_dir: None
+  paste: None
+  syslog_addr: unix:///var/run/syslog
+  config: None
+  enable_stdio_inheritance: False
+  when_ready: <function WhenReady.when_ready at 0x103038a60>
+  certfile: None
+[2016-04-14 15:06:21 -0400] [1733] [INFO] Starting gunicorn 19.4.5
+[2016-04-14 15:06:21 -0400] [1733] [DEBUG] Arbiter booted
+[2016-04-14 15:06:21 -0400] [1733] [INFO] Listening at: unix:/Users/giangnguyen/Desktop/School/django_project/run/gunicorn.sock (1733)
+[2016-04-14 15:06:21 -0400] [1733] [INFO] Using worker: sync
+[2016-04-14 15:06:21 -0400] [1738] [INFO] Booting worker with pid: 1738
+[2016-04-14 15:06:21 -0400] [1739] [INFO] Booting worker with pid: 1739
+[2016-04-14 15:06:21 -0400] [1740] [INFO] Booting worker with pid: 1740
+[2016-04-14 15:06:21 -0400] [1733] [DEBUG] 3 workers
+[2016-04-14 15:20:13 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:1738)
+[2016-04-14 15:20:13 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:1739)
+[2016-04-14 15:20:13 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:1740)
+[2016-04-14 19:20:13 +0000] [1740] [INFO] Worker exiting (pid: 1740)
+[2016-04-14 19:20:13 +0000] [1739] [INFO] Worker exiting (pid: 1739)
+[2016-04-14 19:20:13 +0000] [1738] [INFO] Worker exiting (pid: 1738)
+[2016-04-14 18:14:43 -0400] [1896] [INFO] Booting worker with pid: 1896
+[2016-04-14 18:14:43 -0400] [1733] [DEBUG] 1 workers
+[2016-04-14 18:14:43 -0400] [1897] [INFO] Booting worker with pid: 1897
+[2016-04-14 18:14:43 -0400] [1898] [INFO] Booting worker with pid: 1898
+[2016-04-14 18:14:43 -0400] [1733] [DEBUG] 3 workers
+[2016-04-14 18:43:15 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:1896)
+[2016-04-14 18:43:15 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:1897)
+[2016-04-14 18:43:15 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:1898)
+[2016-04-14 22:43:15 +0000] [1896] [INFO] Worker exiting (pid: 1896)
+[2016-04-14 22:43:15 +0000] [1897] [INFO] Worker exiting (pid: 1897)
+[2016-04-14 22:43:15 +0000] [1898] [INFO] Worker exiting (pid: 1898)
+[2016-04-14 20:35:23 -0400] [2327] [INFO] Booting worker with pid: 2327
+[2016-04-14 20:35:23 -0400] [1733] [DEBUG] 1 workers
+[2016-04-14 20:35:23 -0400] [2328] [INFO] Booting worker with pid: 2328
+[2016-04-14 20:35:23 -0400] [2329] [INFO] Booting worker with pid: 2329
+[2016-04-14 20:35:23 -0400] [1733] [DEBUG] 3 workers
+[2016-04-14 21:13:25 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:2327)
+[2016-04-14 21:13:25 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:2328)
+[2016-04-14 21:13:25 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:2329)
+[2016-04-15 01:13:25 +0000] [2329] [INFO] Worker exiting (pid: 2329)
+[2016-04-15 01:13:25 +0000] [2328] [INFO] Worker exiting (pid: 2328)
+[2016-04-15 01:13:25 +0000] [2327] [INFO] Worker exiting (pid: 2327)
+[2016-04-14 21:30:20 -0400] [2701] [INFO] Booting worker with pid: 2701
+[2016-04-14 21:30:20 -0400] [1733] [DEBUG] 1 workers
+[2016-04-14 21:30:20 -0400] [2702] [INFO] Booting worker with pid: 2702
+[2016-04-14 21:30:20 -0400] [2705] [INFO] Booting worker with pid: 2705
+[2016-04-14 21:30:20 -0400] [1733] [DEBUG] 3 workers
+[2016-04-14 21:34:42 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:2705)
+[2016-04-14 21:34:42 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:2701)
+[2016-04-14 21:34:42 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:2702)
+[2016-04-15 01:34:42 +0000] [2701] [INFO] Worker exiting (pid: 2701)
+[2016-04-15 01:34:42 +0000] [2705] [INFO] Worker exiting (pid: 2705)
+[2016-04-15 01:34:42 +0000] [2702] [INFO] Worker exiting (pid: 2702)
+[2016-04-14 21:38:05 -0400] [2754] [INFO] Booting worker with pid: 2754
+[2016-04-14 21:38:05 -0400] [1733] [DEBUG] 1 workers
+[2016-04-14 21:38:05 -0400] [2756] [INFO] Booting worker with pid: 2756
+[2016-04-14 21:38:05 -0400] [2757] [INFO] Booting worker with pid: 2757
+[2016-04-14 21:38:05 -0400] [1733] [DEBUG] 3 workers
+[2016-04-15 03:13:38 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:2754)
+[2016-04-15 03:13:38 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:2756)
+[2016-04-15 03:13:38 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:2757)
+[2016-04-15 07:13:38 +0000] [2757] [INFO] Worker exiting (pid: 2757)
+[2016-04-15 07:13:38 +0000] [2754] [INFO] Worker exiting (pid: 2754)
+[2016-04-15 07:13:38 +0000] [2756] [INFO] Worker exiting (pid: 2756)
+[2016-04-15 08:09:03 -0400] [4390] [INFO] Booting worker with pid: 4390
+[2016-04-15 08:09:03 -0400] [4391] [INFO] Booting worker with pid: 4391
+[2016-04-15 08:09:03 -0400] [1733] [DEBUG] 2 workers
+[2016-04-15 08:09:03 -0400] [4394] [INFO] Booting worker with pid: 4394
+[2016-04-15 08:09:03 -0400] [1733] [DEBUG] 3 workers
+[2016-04-15 08:25:23 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:4390)
+[2016-04-15 08:25:23 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:4391)
+[2016-04-15 08:25:23 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:4394)
+[2016-04-15 12:25:23 +0000] [4391] [INFO] Worker exiting (pid: 4391)
+[2016-04-15 12:25:23 +0000] [4390] [INFO] Worker exiting (pid: 4390)
+[2016-04-15 12:25:23 +0000] [4394] [INFO] Worker exiting (pid: 4394)
+[2016-04-15 08:40:23 -0400] [4482] [INFO] Booting worker with pid: 4482
+[2016-04-15 08:40:23 -0400] [4483] [INFO] Booting worker with pid: 4483
+[2016-04-15 08:40:23 -0400] [1733] [DEBUG] 2 workers
+[2016-04-15 08:40:23 -0400] [4484] [INFO] Booting worker with pid: 4484
+[2016-04-15 08:40:23 -0400] [1733] [DEBUG] 3 workers
+[2016-04-15 08:41:44 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:4482)
+[2016-04-15 08:41:44 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:4483)
+[2016-04-15 08:41:44 -0400] [1733] [CRITICAL] WORKER TIMEOUT (pid:4484)
+[2016-04-15 12:41:44 +0000] [4483] [INFO] Worker exiting (pid: 4483)
+[2016-04-15 12:41:44 +0000] [4484] [INFO] Worker exiting (pid: 4484)
+[2016-04-15 12:41:44 +0000] [4482] [INFO] Worker exiting (pid: 4482)
+[2016-04-15 09:58:33 -0400] [4500] [INFO] Booting worker with pid: 4500
+[2016-04-15 09:58:33 -0400] [1733] [DEBUG] 1 workers
+[2016-04-15 09:58:33 -0400] [4501] [INFO] Booting worker with pid: 4501
+[2016-04-15 09:58:33 -0400] [4502] [INFO] Booting worker with pid: 4502
+[2016-04-15 09:58:33 -0400] [1733] [DEBUG] 3 workers
+[2016-04-15 10:02:11 -0400] [1733] [INFO] Handling signal: term
+[2016-04-15 14:02:19 +0000] [4500] [INFO] Worker exiting (pid: 4500)
+[2016-04-15 14:02:19 +0000] [4501] [INFO] Worker exiting (pid: 4501)
+[2016-04-15 14:02:19 +0000] [4502] [INFO] Worker exiting (pid: 4502)
+[2016-04-15 10:02:20 -0400] [1733] [INFO] Shutting down: Master
